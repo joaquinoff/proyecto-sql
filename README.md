@@ -1,1 +1,1 @@
-para descargar los datos con los que trabaja este archivo dirijete a kaggle
+para descargar los datos con los que trabaja este archivo dirigete a kaggle
